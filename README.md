@@ -1,2 +1,2 @@
 # website
-discord website
+ website
